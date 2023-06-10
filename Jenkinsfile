@@ -26,10 +26,11 @@ pipeline {
                    '''
             }            
         }
-        stage('BUILD') {
+          stage('BUILD') {
             steps {
                 sh 'mvn clean install package'
             }
         }  
+        
     }
 }    
