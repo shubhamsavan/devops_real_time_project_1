@@ -40,7 +40,7 @@
 
     <br>
     <br>
-    <h2> App Status  : Uup & Running !!! </h2>
+    <h2> App Status  : Up & Running  succesfully with zero downtime because of kuberpods !!! </h2>
     <h2> Image       : shubhamswnt/IMAGE_NAME </h2>
     <br>
     <div class="color-box blue"></div>
